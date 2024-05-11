@@ -24,7 +24,7 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 - 📫 How to reach me **manvendrasinghrathodofficial@gmail.com**
 
-- ⚡ Fun fact **I also have basic knowledge of "BLOCKCHAIN"**
+- ⚡ Fun fact **Into "BLOCKCHAIN" since jan-2018**
 
 
 
