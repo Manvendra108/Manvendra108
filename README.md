@@ -1,14 +1,16 @@
-[![MasterHead](https://img.freepik.com/premium-photo/pixel-art-science-lab-chemistry-lab-background-retro-style-8-bit-game-generative-ai_985124-793.jpg?w=900)](https://codegrills.in)
+[![MasterHead](https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh Rathod</h1>
 <h3 align="center">A passionate frontend developer 👾</h3>
+ 
+ 
+### Social media: 📡   
+Join me on Twitter, where I share insights, victories, and even the occasional setback. 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+[![Twitter Badge](https://img.shields.io/twitter/follow/manvendra_100?logo=twitter&style=for-the-badge)](https://twitter.com/Manvendra_100)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manvendra108&label=Profile%20views&color=0e75b6&style=flat" alt="manvendra108" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manvendra_100" target="blank"><img src="https://img.shields.io/twitter/follow/manvendra_100?logo=twitter&style=for-the-badge" alt="manvendra_100" /></a> </p>
 
 - 🔭 I’m currently working on **Netflix Clone**
 
@@ -24,17 +26,70 @@
 
 - ⚡ Fun fact **I also have basic knowledge of "BLOCKCHAIN"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manvendra_100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manvendra_100" height="30" width="40" /></a>
-<a href="https://discord.gg/@manvendrasinghrathod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@manvendrasinghrathod" height="30" width="40" /></a>
+
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| C | JS | Java | Python |
+|----------|----------|----------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" title="Solidity" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+
+  
+
+### Best frameworks and main libraries for Python3:
+
+| React | 
+|----------|
+|  <img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" title="React"  alt="React" width="55" height="55"/>|
+
+
+### My tools for Data Manipulation:
+
+| MySQL |
+|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+
+
+
+  
+### Environments, Testing, Other:
+
+| nodejs | Git |
+|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
+
+
+### OS: ❤️
+
+| Windows | Kali |
+|----------|----------|
+| <img src="https://cdn-icons-png.flaticon.com/128/888/888882.png" title="Windows" alt="Windows" width="55" height="55"/>| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/>|
+
+
+
+</div>
+
+---
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra108&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="manvendra108" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendra108&show_icons=true&locale=en&theme=vision-friendly-dark" alt="manvendra108" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra108&&theme=vision-friendly-dark" alt="manvendra108" /></p>
+  
+---
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvendra108&show_icons=true&locale=en&layout=compact" alt="manvendra108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendra108&show_icons=true&locale=en" alt="manvendra108" /></p>
+### How to reach me :mailbox:
+[![Twitter Badge](https://img.shields.io/twitter/follow/manvendra_100?logo=twitter&style=for-the-badge)](https://twitter.com/Manvendra_100)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra108&" alt="manvendra108" /></p>
+
