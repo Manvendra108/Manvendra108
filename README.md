@@ -10,6 +10,7 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 [![Twitter Badge](https://img.shields.io/twitter/follow/manvendra_100?logo=twitter&style=for-the-badge)](https://twitter.com/Manvendra_100)
 
 
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 
 - 🔭 I’m currently working on **Netflix Clone**
