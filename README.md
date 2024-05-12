@@ -28,7 +28,8 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 - ⚡ Fun fact **Into "BLOCKCHAIN" since jan-2018**
 
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
 
 <div>
 
@@ -72,7 +73,8 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 </div>
 
----
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 
 
@@ -83,11 +85,14 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra108&&theme=vision-friendly-dark" alt="manvendra108" /></p>
   
----
+
+
 <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 
 ### How to reach me :mailbox:
