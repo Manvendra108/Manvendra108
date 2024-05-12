@@ -27,8 +27,8 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 - ⚡ Fun fact **Into "BLOCKCHAIN" since jan-2018**
 
 
+---
 
-## Languages and Tools 
 <div>
 
 ### Languages:
