@@ -15,13 +15,13 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 - 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **Angular and Next.js**
+- 🌱 I’m currently learning **React and Next.js**
 
 - 👯 I’m looking to collaborate on **Any Frontend Project**
 
 - 🤝 I’m looking for help with **NFT Marketplace Project**
 
-- 💬 Ask me about **Javascript and React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **manvendrasinghrathodofficial@gmail.com**
 
