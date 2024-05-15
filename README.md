@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm Manvendra Singh Rathod</h1>
-<h3 align="center">A passionate frontend developer 👾</h3>
+<h3 align="center">A passionate frontend developer 👾 </h3>
  
  
 ### Social media: 📡   
