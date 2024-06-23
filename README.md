@@ -21,7 +21,7 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 - 🤝 I’m looking for help with **NFT Marketplace Project**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript** and **React**
 
 - 📫 How to reach me **manvendrasinghrathodofficial@gmail.com**
 
