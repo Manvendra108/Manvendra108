@@ -15,7 +15,7 @@ Join me on Twitter, where I share insights, victories, and even the occasional s
 
 - 🔭 I’m currently working on **Netflix Clone**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Any Frontend Project**
 
