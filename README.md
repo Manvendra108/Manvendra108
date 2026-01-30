@@ -107,14 +107,13 @@
 #### Crypto Tracker
 [![Repo]([https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend](https://github.com/Manvendra108/Crypto-Tracker))
 [![Live]([https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/](https://crypto-tracker-kohl-seven.vercel.app/))
-
-A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
-
-- 🌟 **Key Features:**
+</br>
 •  Developed a dynamic web application for real-time cryptocurrency tracking and analysis using React.js, Material UI, and
 Chart.js.
+</br>
 • Implemented features to compare cryptocurrencies, visualize price trends with interactive graphs, and analyze key
 metrics such as price, market cap, and trading volume.
+</br>
 • Integrated the CoinGecko API with Axios to fetch real-time data, enabling search across the top 100 cryptocurrencies
 and creation of a personalized watchlist.
 
@@ -126,19 +125,14 @@ and creation of a personalized watchlist.
 
 [![Repo]([https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd](https://github.com/Manvendra108/NFT-Website))
 [![Live]([https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/](https://nft-website-ashen.vercel.app/))
-
-A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
-
-- 🌟 **Key Features:**
-  - Interactive **course dashboard** for students & instructors
-  - **Authentication & authorization** for different user roles
-  - **Responsive UI** using React.js & TailwindCSS
-  - Integration with **REST APIs** for dynamic data
-  - User-friendly **course enrollment & tracking**
-
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
-
----
+</br>
+ • Developed a fully responsive and visually engaging NFT collection landing page using React.js, featuring structured
+sections including Home, About, Showcase, Team, and FAQ.
+</br>
+• Enhanced user experience with GSAP-powered smooth scrolling animations, SVG animations, and react-confetti effects
+for interactive and dynamic visuals.
+</br>
+• Implemented lazy loading and performanc
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
