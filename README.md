@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Jagmohan%20Rai%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%2C%20I'm%20Manvendra%20Singh%20Rathod%20👋&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,2,5,30,30,60,90" alt="header" />
 </p>
 
 <!-- ✨ Animated Typing Tagline -->
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Katni, Madhya Pradesh, India**  
+📍 Based in **dewas, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
@@ -24,26 +24,23 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagmohan-rai1/">
+  <a href="https://www.linkedin.com/in/Manvendra-Singh-Rathod/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jagmohan123.github.io/New-PortFolio/">
+  <a href="https://manvendra108.github.io/New-PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:jagmohanrai082@gmail.com">
+  <a href="mailto:manvendraa101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💼 Work Experience
+### 💼 Training and Internship
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
+🟢 **GrowTech** 
+🔵 **Aksoft**  
 
 ---
 
@@ -89,8 +86,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
@@ -100,10 +96,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-</p>
+ >
 
 ---
 
@@ -111,27 +104,28 @@
 
 ---
 
-#### 🛒 Shopping24 (E-Commerce Platform)
-[![Repo](https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/)
+#### Crypto Tracker
+[![Repo]([https://img.shields.io/badge/GitHub-Shopping24-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EcomerceFrontend](https://github.com/Manvendra108/Crypto-Tracker))
+[![Live]([https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://shoping24k.netlify.app/](https://crypto-tracker-kohl-seven.vercel.app/))
 
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
 
 - 🌟 **Key Features:**
-  - Full **product catalog** with categories & search
-  - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
-  - Responsive design for desktop & mobile
+•  Developed a dynamic web application for real-time cryptocurrency tracking and analysis using React.js, Material UI, and
+Chart.js.
+• Implemented features to compare cryptocurrencies, visualize price trends with interactive graphs, and analyze key
+metrics such as price, market cap, and trading volume.
+• Integrated the CoinGecko API with Axios to fetch real-time data, enabling search across the top 100 cryptocurrencies
+and creation of a personalized watchlist.
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
 
 ---
 
-#### 🎓StudyAdda (Ed-Tech Platform)
+#### Weirdos
 
-[![Repo](https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/)
+[![Repo]([https://img.shields.io/badge/GitHub-EdTechFrontEnd-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/EdTechFrontEnd](https://github.com/Manvendra108/NFT-Website))
+[![Live]([https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://studyaddal.netlify.app/](https://nft-website-ashen.vercel.app/))
 
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
 
@@ -145,19 +139,6 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
 ---
-
-#### 💼 ApplySeeker (Job Plateform)
-[![Repo](https://img.shields.io/badge/GitHub-ApplySeekerFrontend-181717?style=for-the-badge&logo=github)](https://github.com/jagmohan123/ApplySeekerFrontend)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://applyseeker.netlify.app/)
-
-A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
-
-- 🌟 **Key Features:**
-  - User authentication for **job seekers & recruiters**
-  - **Job posting & application management**
-  - **Responsive, dynamic dashboards** for recruiters and candidates
-  - Integration with **REST APIs** for real-time updates
-  - Built for scalability and smooth user experience
 
 - 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
 
