@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **Dewas, Madhya Pradesh, India**
-💻 Full-Stack **JavaScript Developer** specializing in the **MERN stack — MongoDB · Express.js · React.js · Node.js**
-🎯 Strong command over Object-Oriented Programming (OOP), Database Management Systems (DBMS), and Data Structures & Algorithms (DSA)
-🎨 Enthusiastic about creating scalable web applications, designing robust design systems, and building reusable UI component libraries for smooth user experiences
-🚀 Skilled in frontend architecture, product design, and UI engineering, balancing performance with visual excellence
-⚡ Enjoy mentoring aspiring developers and sharing insights into the modern JavaScript ecosystem
+📍 Based in **Dewas, Madhya Pradesh, India** <br />
+💻 Full-Stack **JavaScript Developer** specializing in the **MERN stack — MongoDB · Express.js · React.js · Node.js**<br />
+🎯 Strong command over Object-Oriented Programming (OOP), Database Management Systems (DBMS), and Data Structures & Algorithms (DSA)<br />
+🎨 Enthusiastic about creating scalable web applications, designing robust design systems, and building reusable UI component libraries for smooth user experiences <br />
+🚀 Skilled in frontend architecture, product design, and UI engineering, balancing performance with visual excellence <br />
+⚡ Enjoy mentoring aspiring developers and sharing insights into the modern JavaScript ecosystem <br />
 
 ---
 
